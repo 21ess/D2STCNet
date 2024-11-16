@@ -1,7 +1,5 @@
 import warnings
 import os
-import matplotlib.pyplot as plt
-import optuna
 from optuna.visualization.matplotlib import plot_optimization_history, plot_param_importances, plot_contour
 
 warnings.filterwarnings('ignore')

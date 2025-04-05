@@ -1,6 +1,8 @@
 ## Disentangling Urban Flow: A Dynamic ST-GNN Approach Based on Multi-View Contrastive Learning
 
-This repository implements the D2STCNet model for spatiotemporal traffic prediction using deep learning techniques.
+This repository implements the D2STCNet model for spatiotemporal traffic prediction using deep learning techniques. 
+
+The paper was accepted by CSCWD(IEEE International Conference on Computer Supported Cooperative Work in Design)2025. 
 
 ### Project structure
 ```bash

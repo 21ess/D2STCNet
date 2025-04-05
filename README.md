@@ -2,7 +2,7 @@
 
 This repository implements the D2STCNet model for spatiotemporal traffic prediction using deep learning techniques. 
 
-The paper was accepted by CSCWD(IEEE International Conference on Computer Supported Cooperative Work in Design)2025. 
+The paper was accepted by [CSCWD](https://cscwd2025.hds.utc.fr/)(IEEE International Conference on Computer Supported Cooperative Work in Design)2025. 
 
 ### Project structure
 ```bash
